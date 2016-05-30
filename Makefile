@@ -6,7 +6,7 @@ QTCURVE_DIR = $(DESTDIR)/usr/share/QtCurve/
 YAKUAKE_DIR = $(DESTDIR)/usr/share/yakuake/skins/
 INSTALL = install -d
 CP = cp -rf
-RM = -rm -rf
+RM = rm -rf
 
 all:
 
