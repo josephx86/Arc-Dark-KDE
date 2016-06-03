@@ -17,7 +17,7 @@ Use GTK style
 
 - [Arc Dark GTK Theme](https://github.com/horst3180/arc-theme)
 
-- [Papirus Icon Theme](https://github.com/varlesh/papirus-suite/tree/master/kde-pack/icons)
+- [Papirus Icon KDE Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde)
 
 # Install
 
