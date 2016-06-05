@@ -52,6 +52,7 @@ echo 'alias fix-menubar="sudo bash /usr/share/plasma/desktoptheme/Arc-Dark/fix-m
 
 - [Chromium theme](https://github.com/varlesh/Arc-Dark-KDE/tree/master/extra/chromium)
 - [DeaDBeeF style](https://github.com/varlesh/Arc-Dark-KDE/tree/master/extra/deadbeef)
+- [VLC skin](https://github.com/varlesh/VLC-Arc-Dark)
 - [Nylas N1 theme](https://github.com/varlesh/Nylas-Arc-Dark-Theme)
 
 # DONATE
