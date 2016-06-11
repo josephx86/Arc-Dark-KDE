@@ -6,14 +6,14 @@ On repository available:
 - Color scheme
 - Yakuake skin
 - Konsole colorscheme
-- Kantum themes
+- Kvantum themes
 
 # Preview
 
 Use GTK engine
 ![Screenshot](preview-gtk.png)
 
-Use Kvantum engine, also support transparent style
+Use [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) engine, also support transparent style
 ![Screenshot](preview-kvantum.png)
 
 # Recommends
