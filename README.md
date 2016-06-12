@@ -9,12 +9,7 @@ On repository available:
 - Kvantum themes
 
 # Preview
-
-Use GTK engine
-![Screenshot](preview-gtk.png)
-
-Use [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) engine, also support transparent style
-![Screenshot](preview-kvantum.png)
+![Screenshot](preview.png)
 
 # Recommends
 

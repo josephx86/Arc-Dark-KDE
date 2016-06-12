@@ -19,7 +19,7 @@
    width="844.47083"
    version="1.0">
   <sodipodi:namedview
-     inkscape:window-height="845"
+     inkscape:window-height="849"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -28,12 +28,12 @@
      objecttolerance="1"
      borderopacity="1.0"
      bordercolor="#666666"
-     pagecolor="#383c4a"
+     pagecolor="#9aa0b3"
      id="base"
      showgrid="false"
-     inkscape:zoom="3.06"
-     inkscape:cx="388.98792"
-     inkscape:cy="595.8366"
+     inkscape:zoom="1.08"
+     inkscape:cx="377.2391"
+     inkscape:cy="403.99548"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -131,7 +131,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1451,7 +1451,7 @@
        height="32"
        width="32"
        id="rect3850"
-       style="fill:#2e3340;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.9" />
+       style="fill:#2e3340;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.95" />
   </g>
   <g
      style="fill-rule:evenodd;stroke:none"
@@ -3362,7 +3362,7 @@
        sodipodi:cy="-779.58405"
        sodipodi:cx="711.70209"
        id="path4105-8-02-0"
-       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.9"
+       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.95"
        sodipodi:type="arc"
        class="ColorScheme-Background" />
   </g>
@@ -3376,7 +3376,7 @@
        transform="matrix(1.1956522,0,0,0.81250075,-1636.8724,491.93537)"
        id="rect4117-4-8" />
     <rect
-       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.9"
+       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.95"
        id="rect4117-4-7-1"
        width="55"
        height="3.2500031"
@@ -3394,7 +3394,7 @@
        transform="matrix(2.2708348,0,0,0.48837418,-2461.5375,616.70421)"
        id="rect4115-6-68" />
     <rect
-       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.9"
+       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.95"
        id="rect4115-6-6-2"
        width="9.0833387"
        height="21.00009"
@@ -4936,7 +4936,7 @@
     </g>
   </g>
   <path
-     style="opacity:0.9;fill:#383c4a;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     style="opacity:0.95;fill:#383c4a;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="menu-normal"
      d="m 588,95.028741 48,0 0,47.999999 -48,0 z"
      inkscape:connector-curvature="0" />
@@ -6570,7 +6570,7 @@
     <path
        class="ColorScheme-Background"
        sodipodi:type="arc"
-       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.9"
+       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.95"
        id="path7714"
        sodipodi:cx="711.70203"
        sodipodi:cy="-779.58405"
@@ -6597,7 +6597,7 @@
        height="21.00009"
        width="9.0833387"
        id="rect7720"
-       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.9" />
+       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.95" />
   </g>
   <g
      inkscape:label="#g5038"
@@ -6611,7 +6611,7 @@
     <path
        class="ColorScheme-Background"
        sodipodi:type="arc"
-       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.9"
+       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.95"
        id="path7726"
        sodipodi:cx="711.70209"
        sodipodi:cy="-779.58405"
@@ -6638,7 +6638,7 @@
        height="3.2500031"
        width="55"
        id="rect7732"
-       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.9" />
+       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.95" />
   </g>
   <g
      id="tooltip-normal-bottomright"
@@ -6659,7 +6659,7 @@
        sodipodi:cy="-779.58405"
        sodipodi:cx="711.70203"
        id="path7738"
-       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.9"
+       style="color:#eff0f1;fill:#2e3340;fill-opacity:1;stroke:none;opacity:0.95"
        sodipodi:type="arc"
        class="ColorScheme-Background" />
   </g>
@@ -6668,7 +6668,7 @@
      x="759"
      y="488.02875"
      height="40"
-     style="opacity:0.9;fill:#383c4a;fill-opacity:1;stroke:none"
+     style="opacity:0.95;fill:#383c4a;fill-opacity:1;stroke:none"
      id="window-normal" />
   <rect
      width="20"
