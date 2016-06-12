@@ -31,9 +31,9 @@
      pagecolor="#5a5a5a"
      id="base"
      showgrid="false"
-     inkscape:zoom="3.77"
-     inkscape:cx="592.03878"
-     inkscape:cy="609.95808"
+     inkscape:zoom="1.52"
+     inkscape:cx="385.93608"
+     inkscape:cy="674.96033"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -7545,4 +7545,73 @@
      height="4.9998593"
      id="menu-shadow-hint-left"
      transform="matrix(0,-1,1,0,0,0)" />
+  <g
+     id="checkbox-tristate-normal"
+     inkscape:label="#g5228">
+    <rect
+       rx="2.2222223"
+       ry="2.2222223"
+       style="color:#eff0f1;fill:#5294e2;fill-opacity:1;stroke:none"
+       id="rect5195"
+       width="20"
+       height="20"
+       x="280"
+       y="162.02875"
+       inkscape:label="#rect4146"
+       class="ColorScheme-Background" />
+    <rect
+       class="ColorScheme-Background"
+       inkscape:label="#rect4146"
+       y="163.02875"
+       x="281"
+       height="18"
+       width="18"
+       id="rect5197"
+       style="color:#eff0f1;fill:#5294e2;fill-opacity:1;stroke:none"
+       ry="2"
+       rx="2" />
+    <path
+       id="rect5221"
+       d="M 289 166.0293 L 289 171.0293 L 284 171.0293 L 284 173.0293 L 289 173.0293 L 289 178.0293 L 291 178.0293 L 291 173.0293 L 296 173.0293 L 296 171.0293 L 291 171.0293 L 291 166.0293 L 289 166.0293 z "
+       style="opacity:1;fill:#262934;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="checkbox-tristate-focused"
+     inkscape:label="#g5233">
+    <rect
+       class="ColorScheme-Background"
+       inkscape:label="#rect4146"
+       y="162.02875"
+       x="305"
+       height="20"
+       width="20"
+       id="rect5205"
+       style="color:#eff0f1;fill:#4877b1;fill-opacity:1;stroke:none"
+       ry="2.2222223"
+       rx="2.2222223" />
+    <rect
+       rx="2"
+       ry="2"
+       style="color:#eff0f1;fill:#4877b1;fill-opacity:1;stroke:none"
+       id="rect5207"
+       width="18"
+       height="18"
+       x="306"
+       y="163.02875"
+       inkscape:label="#rect4146"
+       class="ColorScheme-Background" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#262934;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 314,166.0293 0,5 -5,0 0,2 5,0 0,5 2,0 0,-5 5,0 0,-2 -5,0 0,-5 -2,0 z"
+       id="path5226" />
+  </g>
+  <rect
+     inkscape:label="#rect9436"
+     id="progress-pattern-disabled"
+     style="opacity:0.00100002;fill:#5294e2;fill-opacity:1;stroke:none"
+     height="20"
+     y="23.028748"
+     x="455"
+     width="20" />
 </svg>
