@@ -4,6 +4,7 @@ KONSOLE_DIR = $(DESTDIR)/usr/share/konsole/
 PLASMA_DT_DIR = $(DESTDIR)/usr/share/plasma/desktoptheme/
 LOOKANDFEEL_DIR = $(DESTDIR)/usr/share/plasma/look-and-feel/
 YAKUAKE_DIR = $(DESTDIR)/usr/share/yakuake/skins/
+WALLPAPERS_DIR = $(DESTDIR)/usr/share/wallpapers/
 INSTALL = install -d
 CP = cp -rf
 RM = rm -rf
@@ -20,6 +21,7 @@ clear:
 	$(RM) $(PLASMA_DT_DIR)Arc-Dark
 	$(RM) $(LOOKANDFEEL_DIR)com.github.varlesh.arc-dark
 	$(RM) $(YAKUAKE_DIR)arc-dark
+	$(RM) $(WALLPAPERS_DIR)Arc-Dark
 	
 local:
 	$(INSTALL) $(AURORAE_DIR)
@@ -28,6 +30,7 @@ local:
 	$(INSTALL) $(PLASMA_DT_DIR)
 	$(INSTALL) $(LOOKANDFEEL_DIR)
 	$(INSTALL) $(YAKUAKE_DIR)
+	$(INSTALL) $(WALLPAPERS_DIR)
 	
 	$(CP) aurorae/themes/Arc-Dark $(AURORAE_DIR)
 	$(CP) aurorae/themes/Arc-Dark-Transparent $(AURORAE_DIR)
@@ -36,5 +39,6 @@ local:
 	$(CP) plasma/desktoptheme/Arc-Dark $(PLASMA_DT_DIR)
 	$(CP) plasma/look-and-feel/com.github.varlesh.arc-dark $(LOOKANDFEEL_DIR)
 	$(CP) yakuake/kns_skins/arc-dark $(YAKUAKE_DIR)
+	$(CP) wallpapers/Arc-Dark $(WALLPAPERS_DIR)
 
 uninstall: clear

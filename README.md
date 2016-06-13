@@ -31,7 +31,7 @@ Big thx [FadeMind](https://github.com/FadeMind) for PKGBUILD :)
 
 ```
 git clone https://github.com/varlesh/Arc-Dark-KDE.git
-cp -R Arc-Dark-KDE/{aurorae,color-schemes,plasma,konsole,yakuake,Kvantum} ~/.local/share/
+cp -R Arc-Dark-KDE/{aurorae,color-schemes,plasma,konsole,yakuake,Kvantum,wallpapers} ~/.local/share/
 ```
 
 # Fix color menubar on GTK
