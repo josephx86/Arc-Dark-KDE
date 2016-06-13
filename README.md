@@ -38,6 +38,7 @@ cp -R Arc-Dark-KDE/{aurorae,color-schemes,plasma,konsole,yakuake,Kvantum} ~/.loc
 ![Screenshot](fix-menubar.png)
 
 Add bash alias **fix-menubar** (for easy fix color menubar after upgrade Arc Dark GTK Theme).
+
 If you install plasma theme on home directory, please add this alias:
 ```
 echo 'alias fix-menubar="sudo bash ~/.local/share/plasma/desktoptheme/Arc-Dark/fix-menubar.sh"' >> ~/.bashrc
