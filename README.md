@@ -7,6 +7,7 @@ On repository available:
 - Yakuake skin
 - Konsole colorscheme
 - Kvantum themes
+- Wallpaper
 
 # Preview
 ![Screenshot](preview.png)
