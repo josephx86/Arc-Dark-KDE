@@ -22,18 +22,18 @@
      inkscape:window-height="849"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      guidetolerance="1"
      gridtolerance="1"
      objecttolerance="1"
      borderopacity="1.0"
      bordercolor="#666666"
-     pagecolor="#9aa0b3"
+     pagecolor="#404552"
      id="base"
      showgrid="false"
-     inkscape:zoom="1.08"
-     inkscape:cx="377.2391"
-     inkscape:cy="403.99548"
+     inkscape:zoom="6.56"
+     inkscape:cx="221.95243"
+     inkscape:cy="27.99992"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -2170,7 +2170,7 @@
     <path
        class="ColorScheme-Background"
        sodipodi:type="arc"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        id="path4105-8-2-3"
        sodipodi:cx="711.70203"
        sodipodi:cy="-779.58405"
@@ -2193,7 +2193,7 @@
     <path
        class="ColorScheme-Background"
        sodipodi:type="arc"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        id="path4105-8-00-1-9"
        sodipodi:cx="807.9621"
        sodipodi:cy="726.93964"
@@ -2219,7 +2219,7 @@
        id="button-toggled-right-9-8">
       <rect
          class="ColorScheme-Background"
-         style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+         style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
          id="rect4142-9-47-9-7"
          width="11.318039"
          height="21"
@@ -2243,7 +2243,7 @@
        height="2.8437526"
        width="55"
        id="rect4117-4-17-4"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5" />
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5" />
   </g>
   <g
      inkscape:label="#button-toggled-bottom"
@@ -2256,7 +2256,7 @@
        id="rect4119-4-0" />
     <rect
        class="ColorScheme-Background"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        id="rect4119-4-0-3"
        width="55"
        height="2.8437526"
@@ -2283,7 +2283,7 @@
        sodipodi:cy="-779.58405"
        sodipodi:cx="-664.80707"
        id="path4123-1-6-0"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        sodipodi:type="arc" />
   </g>
   <g
@@ -2298,7 +2298,7 @@
     <path
        class="ColorScheme-Background"
        sodipodi:type="arc"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        id="path4105-8-31-8-7"
        sodipodi:cx="-664.80719"
        sodipodi:cy="810.58398"
@@ -2323,7 +2323,7 @@
        id="button-toggled-right-9">
       <rect
          class="ColorScheme-Background"
-         style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+         style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
          id="rect4142-9-47-9"
          width="11.318039"
          height="21"
@@ -2339,7 +2339,7 @@
      height="43.076813"
      width="46.238499"
      id="button-toggled"
-     style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5" />
+     style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5" />
   <g
      transform="translate(532.5,-300.97125)"
      id="splitter-grip-focused"
@@ -3009,7 +3009,7 @@
        style="opacity:0;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
   </g>
   <rect
-     style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+     style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
      id="button-pressed"
      width="46.238503"
      height="43.076813"
@@ -3199,7 +3199,7 @@
        sodipodi:cy="-779.58405"
        sodipodi:cx="711.70203"
        id="path4105-8-02-5-9"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        sodipodi:type="arc"
        class="ColorScheme-Background" />
   </g>
@@ -3213,7 +3213,7 @@
        transform="matrix(1.1894849,0,0,0.81250075,-982.6834,773.93554)"
        id="rect4117-4-27-4" />
     <rect
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        id="rect4117-4-7-0-0"
        width="55"
        height="2.8437526"
@@ -3232,7 +3232,7 @@
        id="path4123-1-11-7" />
     <path
        sodipodi:type="arc"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        id="path4123-1-73-7-5"
        sodipodi:cx="-664.80707"
        sodipodi:cy="-779.58405"
@@ -3254,7 +3254,7 @@
        transform="matrix(2.2708348,0,0,0.48750122,-1221.6617,786.2137)"
        id="rect4115-6-1-8" />
     <rect
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        id="rect4115-6-6-8-0"
        width="7.9479218"
        height="21.00009"
@@ -3277,7 +3277,7 @@
        height="21"
        width="11.318039"
        id="rect4142-9-83-1-7"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        class="ColorScheme-Background" />
   </g>
   <g
@@ -3298,7 +3298,7 @@
        sodipodi:cy="810.58392"
        sodipodi:cx="-664.80713"
        id="path4105-8-31-6-5-9"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        sodipodi:type="arc"
        class="ColorScheme-Background" />
   </g>
@@ -3317,7 +3317,7 @@
        height="2.8437526"
        width="55"
        id="rect4119-4-6-0-2"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        class="ColorScheme-Background" />
   </g>
   <g
@@ -3339,7 +3339,7 @@
        sodipodi:cy="726.93964"
        sodipodi:cx="807.93085"
        id="path4105-8-00-5-2-4"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        sodipodi:type="arc"
        class="ColorScheme-Background" />
   </g>
@@ -5454,7 +5454,7 @@
        sodipodi:cy="-779.58405"
        sodipodi:cx="711.70203"
        id="path7024"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        sodipodi:type="arc"
        class="ColorScheme-Background" />
   </g>
@@ -5477,7 +5477,7 @@
        sodipodi:cy="726.93964"
        sodipodi:cx="807.9621"
        id="path7030"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        sodipodi:type="arc"
        class="ColorScheme-Background" />
   </g>
@@ -5500,7 +5500,7 @@
          height="21"
          width="11.318039"
          id="rect7038"
-         style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+         style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
          class="ColorScheme-Background" />
     </g>
   </g>
@@ -5514,7 +5514,7 @@
        transform="matrix(1.1894849,0,0,0.81250075,-1007.6626,263.68512)"
        id="rect7042" />
     <rect
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        id="rect7044"
        width="55"
        height="2.8437526"
@@ -5537,7 +5537,7 @@
        height="2.8437526"
        width="55"
        id="rect7051"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        class="ColorScheme-Background" />
   </g>
   <g
@@ -5551,7 +5551,7 @@
        id="path7055" />
     <path
        sodipodi:type="arc"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        id="path7057"
        sodipodi:cx="-664.80707"
        sodipodi:cy="-779.58405"
@@ -5581,7 +5581,7 @@
        sodipodi:cy="810.58398"
        sodipodi:cx="-664.80719"
        id="path7063"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        sodipodi:type="arc"
        class="ColorScheme-Background" />
   </g>
@@ -5604,12 +5604,12 @@
          height="21"
          width="11.318039"
          id="rect7071"
-         style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+         style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
          class="ColorScheme-Background" />
     </g>
   </g>
   <rect
-     style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+     style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
      id="tbutton-toggled"
      width="46.238499"
      height="43.076813"
@@ -5634,7 +5634,7 @@
      height="43.076813"
      width="46.238503"
      id="tbutton-pressed"
-     style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5" />
+     style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5" />
   <g
      inkscape:label="#g5054"
      transform="matrix(0.84070004,0,0,1.2307681,700.14203,-324.53518)"
@@ -5810,7 +5810,7 @@
     <path
        class="ColorScheme-Background"
        sodipodi:type="arc"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        id="path7131"
        sodipodi:cx="711.70203"
        sodipodi:cy="-779.58405"
@@ -5837,7 +5837,7 @@
        height="2.8437526"
        width="55"
        id="rect7137"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5" />
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5" />
   </g>
   <g
      inkscape:label="#g5034"
@@ -5859,7 +5859,7 @@
        sodipodi:cy="-779.58405"
        sodipodi:cx="-664.80707"
        id="path7143"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        sodipodi:type="arc" />
   </g>
   <g
@@ -5878,7 +5878,7 @@
        height="21.00009"
        width="7.9479218"
        id="rect7149"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5" />
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5" />
   </g>
   <g
      inkscape:label="#g5046"
@@ -5891,7 +5891,7 @@
        id="rect7153" />
     <rect
        class="ColorScheme-Background"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        id="rect7155"
        width="11.318039"
        height="21"
@@ -5910,7 +5910,7 @@
     <path
        class="ColorScheme-Background"
        sodipodi:type="arc"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        id="path7161"
        sodipodi:cx="-664.80713"
        sodipodi:cy="810.58392"
@@ -5931,7 +5931,7 @@
        id="rect7165" />
     <rect
        class="ColorScheme-Background"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        id="rect7167"
        width="55"
        height="2.8437526"
@@ -5950,7 +5950,7 @@
     <path
        class="ColorScheme-Background"
        sodipodi:type="arc"
-       style="color:#eff0f1;fill:#232c37;fill-opacity:1;stroke:none;opacity:0.5"
+       style="color:#eff0f1;fill:#242832;fill-opacity:1;stroke:none;opacity:0.5"
        id="path7173"
        sodipodi:cx="807.93085"
        sodipodi:cy="726.93964"
