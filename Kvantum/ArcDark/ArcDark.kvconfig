@@ -231,8 +231,13 @@ frame.right=1
 [TabBarFrame]
 inherits=TabFrame
 interior=true
-interior.element=toolbar
-frame=false
+interior.element=tabback
+frame.element=tabback
+frame=true
+frame.top=1
+frame.bottom=0
+frame.left=1
+frame.right=1
 
 [HeaderSection]
 inherits=PanelButtonCommand
