@@ -13,23 +13,28 @@ On repository available:
 ![Screenshot](preview.png)
 
 # Recommends
-
 - [Arc Dark GTK Theme](https://github.com/horst3180/arc-theme)
 
 - [Papirus Icon KDE Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde)
 
 # Install
-
-**For Archlinux, Manjaro, Netrunner Rolling, Antergos (AUR):**
-
+**For Archlinux, Manjaro, Netrunner Rolling, Antergos (AUR)**:
 ```
 yaourt -S arc-dark-suite-git
 ```
-
 Big thx [FadeMind](https://github.com/FadeMind) for PKGBUILD :)
 
-**For other distros:**
+**For Kubuntu 16.04**:
+NOTE: Kvantum theme not contains on package arc-dark-kde5, because Kavntum not available on official repository!
 
+[Install Kvantum](https://github.com/tsujan/Kvantum/releases) and Kvantum theme manualy.
+```
+sudo add-apt-repository ppa:varlesh-l/papirus-pack
+sudo apt-get update
+sudo apt install arc-dark-kde5
+```
+
+**For other distros**:
 ```
 git clone https://github.com/varlesh/Arc-Dark-KDE.git
 cp -R Arc-Dark-KDE/{aurorae,color-schemes,plasma,konsole,yakuake,Kvantum,wallpapers} ~/.local/share/
