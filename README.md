@@ -25,6 +25,7 @@ yaourt -S arc-dark-suite-git
 Big thx [FadeMind](https://github.com/FadeMind) for PKGBUILD :)
 
 **For Kubuntu 16.04**:
+
 NOTE: Kvantum theme not contains on package arc-dark-kde5, because Kavntum not available on official repository!
 
 [Install Kvantum](https://github.com/tsujan/Kvantum/releases) and Kvantum theme manualy.
