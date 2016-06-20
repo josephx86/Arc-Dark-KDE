@@ -1,5 +1,5 @@
 #  Firefox Arc Dark Theme for Arc Dark KDE
-Recommends use [Arc Dark Theme](https://github.com/horst3180/arc-firefox-theme) with little fix for toolbar
+Recommends use [Arc Dark Theme](https://github.com/horst3180/arc-firefox-theme) with little fix background color on tabbar
 
 ![Screenshot](fix-toolbar.png)
 
