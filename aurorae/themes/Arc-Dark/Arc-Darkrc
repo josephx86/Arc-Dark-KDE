@@ -18,9 +18,9 @@ TitleVerticalAlignment=Center
 UseTextShadow=true
 
 [Layout]
-BorderBottom=5
-BorderLeft=5
-BorderRight=5
+BorderBottom=1
+BorderLeft=1
+BorderRight=1
 ButtonHeight=16
 ButtonMarginTop=2
 ButtonSpacing=12
@@ -30,8 +30,8 @@ PaddingBottom=8
 PaddingLeft=8
 PaddingRight=8
 PaddingTop=8
-TitleBorderLeft=5
-TitleBorderRight=5
+TitleBorderLeft=1
+TitleBorderRight=1
 TitleEdgeBottom=3
 TitleEdgeBottomMaximized=3
 TitleEdgeLeft=5
