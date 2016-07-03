@@ -24,18 +24,32 @@ yaourt -S arc-dark-suite-git
 ```
 Big thx [FadeMind](https://github.com/FadeMind) for PKGBUILD :)
 
-**For Kubuntu 16.04**:
+**For Kubuntu 16.04/KDE Neon**:
 
-NOTE: Kvantum theme not contains on package arc-dark-kde5, because Kavntum not available on official repository!
-
-[Install Kvantum](https://github.com/tsujan/Kvantum/releases) and Kvantum theme manualy.
 ```
 sudo add-apt-repository ppa:varlesh-l/papirus-pack
-sudo apt-get update
+sudo apt update
+# Plasma 5 Pack
 sudo apt install arc-dark-kde5
+# GTK Theme
+sudo apt install arc-theme
+# Kvantum engine (ONLY FOR AMD64!!!)
+wget https://github.com/tsujan/Kvantum/releases/download/V0.9.8/kvantum_0.9.8_amd64.deb
+sudo dpkg -i kvantum*.deb
+sudo apt install -f
+# Kvantum Arc Dark Theme
+wget https://github.com/varlesh/Arc-Dark-KDE/archive/master.zip -O Arc-Dark-KDE.zip
+unzip Arc-Dark-KDE.zip
+mkdir -p ~/.config/Kvantum
+cp -R /tmp/Arc-Dark-KDE-master/Kvantum/Arc* ~/.config/Kvantum/
+# Fix skins path for Yakuake 3 (KF5)
+mkdir -p ~/.local/share/yakuake/kns_skins
+ln -s /usr/share/kde4/apps/yakuake/skins/arc-dark ~/.local/share/yakuake/kns_skins/arc-dark
+ln -s /usr/share/kde4/apps/yakuake/skins/papirus ~/.local/share/yakuake/kns_skins/papirus
 ```
 
-**For other distros**:
+
+**For other KDE5 distros**:
 ```
 git clone https://github.com/varlesh/Arc-Dark-KDE.git
 cp -R Arc-Dark-KDE/{aurorae,color-schemes,plasma,konsole,yakuake,Kvantum,wallpapers} ~/.local/share/

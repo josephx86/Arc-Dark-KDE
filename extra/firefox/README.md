@@ -3,7 +3,14 @@ Recommends use [Arc Dark Theme](https://github.com/horst3180/arc-firefox-theme) 
 
 ![Screenshot](fix-toolbar.png)
 
-# Install and Fix
+# Install
+**For Kubuntu 16.04/KDE Neon:**
+```
+sudo add-apt-repository ppa:varlesh-l/papirus-pack
+sudo apt update
+sudo apt install arc-dark-kde-firefox-theme
+```
+**For other KDE5 distros:**
 ```
 git clone https://github.com/horst3180/arc-firefox-theme.git
 cd arc-firefox-theme
