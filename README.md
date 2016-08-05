@@ -34,7 +34,7 @@ sudo apt install arc-dark-kde5
 # GTK Theme
 sudo apt install arc-theme
 # Kvantum engine (ONLY FOR AMD64!!!)
-wget https://github.com/tsujan/Kvantum/releases/download/V0.9.8/kvantum_0.9.8_amd64.deb
+wget https://github.com/tsujan/Kvantum/releases/download/V0.10.0/kvantum_0.10.0-ubuntuLTS_amd64.deb
 sudo dpkg -i kvantum*.deb
 sudo apt install -f
 # Kvantum Arc Dark Theme
