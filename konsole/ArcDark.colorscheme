@@ -5,58 +5,58 @@ Color=56,60,74
 Color=56,60,74
 
 [Color0]
-Color=255,211,52
+Color=64,69,82
 
 [Color0Intense]
-Color=173,149,93
+Color=177,119,120
 
 [Color1]
-Color=244,74,74
+Color=225,66,69
 
 [Color1Intense]
-Color=235,125,117
+Color=164,57,57
 
 [Color2]
-Color=105,175,97
+Color=80,154,5
 
 [Color2Intense]
-Color=89,145,91
+Color=139,226,51
 
 [Color3]
-Color=246,139,62
+Color=196,157,0
 
 [Color3Intense]
-Color=195,127,72
+Color=252,232,79
 
 [Color4]
-Color=33,150,243
+Color=56,60,74
 
 [Color4Intense]
-Color=95,138,170
+Color=47,52,63
 
 [Color5]
-Color=233,71,136
+Color=117,80,123
 
 [Color5Intense]
-Color=165,93,136
+Color=173,127,169
 
 [Color6]
-Color=204,99,233
+Color=82,148,226
 
 [Color6Intense]
-Color=149,114,170
+Color=132,162,226
 
 [Color7]
-Color=217,217,217
+Color=39,44,53
 
 [Color7Intense]
-Color=179,179,179
+Color=199,200,204
 
 [Foreground]
-Color=193,193,193
+Color=199,200,204
 
 [ForegroundIntense]
-Color=135,135,135
+Color=199,200,204
 
 [General]
 Description=Arc Dark
