@@ -13,9 +13,13 @@ On repository available:
 ![Screenshot](preview.png)
 
 # Recommends
-- [Arc Dark GTK Theme](https://github.com/horst3180/arc-theme)
+- Qt4 and Qt5 Theme Engine [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum)
 
-- [Papirus Icon KDE Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde)
+- GTK2 and GTK3 Theme [Arc Dark GTK](https://github.com/horst3180/arc-theme)
+
+- Icon Theme [Papirus Arc Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde)
+
+- Terminal [Yakuake](https://www.kde.org/applications/system/yakuake)
 
 # Install
 **For Archlinux, Manjaro, Netrunner Rolling, Antergos (AUR)**:
