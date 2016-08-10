@@ -1,11 +1,11 @@
 [Background]
-Color=56,60,74
+Color=231,232,235
 
 [BackgroundIntense]
-Color=56,60,74
+Color=231,232,235
 
 [Color0]
-Color=64,69,82
+Color=255,255,255
 
 [Color0Intense]
 Color=177,119,120
@@ -20,7 +20,7 @@ Color=164,57,57
 Color=80,154,5
 
 [Color2Intense]
-Color=139,226,51
+Color=95,144,65
 
 [Color3]
 Color=196,157,0
@@ -29,10 +29,10 @@ Color=196,157,0
 Color=72,119,177
 
 [Color4]
-Color=56,60,74
+Color=231,232,235
 
 [Color4Intense]
-Color=47,52,63
+Color=255,85,0
 
 [Color5]
 Color=117,80,123
@@ -47,18 +47,18 @@ Color=82,148,226
 Color=132,162,226
 
 [Color7]
-Color=39,44,53
+Color=164,165,170
 
 [Color7Intense]
-Color=199,200,204
+Color=122,127,139
 
 [Foreground]
-Color=199,200,204
+Color=122,127,139
 
 [ForegroundIntense]
-Color=199,200,204
+Color=122,127,139
 
 [General]
-Description=Arc Dark
+Description=Arc
 Opacity=0.95
 Wallpaper=
