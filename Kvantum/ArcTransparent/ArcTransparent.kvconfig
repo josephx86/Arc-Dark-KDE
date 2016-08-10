@@ -53,10 +53,10 @@ alt.base.color=#ffffff
 button.color=#ffffff
 light.color=#ffffff
 mid.light.color=#ffffff
-dark.color=#2F343f
-mid.color=#2F343f
-highlight.color=#5294E2
-inactive.highlight.color=#4877B1
+dark.color=#e7e8eb
+mid.color=#e7e8eb
+highlight.color=#5294e2
+inactive.highlight.color=#4877b1
 text.color=#5c616c
 window.text.color=#5c616c
 button.text.color=#5c616c
@@ -65,6 +65,7 @@ tooltip.text.color=#e7e8eb
 highlight.text.color=#ffffff
 link.color=#4877B1
 link.visited.color=#7247b1
+progress.indicator.text.color=#ffffff
 
 [ItemView]
 inherits=PanelButtonCommand
