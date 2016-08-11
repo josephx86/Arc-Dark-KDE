@@ -23,10 +23,16 @@ On repository available:
 
 # Install
 **For Archlinux, Manjaro, Netrunner Rolling, Antergos (AUR)**:
+
+**STABLE RELEASE**
+```
+yaourt -S arc-dark-suite
+```
+
+**LASTEST DEVELOPMENT GIT SNAPSHOT**
 ```
 yaourt -S arc-dark-suite-git
 ```
-Big thx [FadeMind](https://github.com/FadeMind) for PKGBUILD :)
 
 **For Kubuntu 16.04/KDE Neon**:
 
