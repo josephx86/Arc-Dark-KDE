@@ -50,14 +50,11 @@ wget https://github.com/tsujan/Kvantum/releases/download/V0.10.0/kvantum_0.10.0-
 sudo dpkg -i kvantum*.deb
 sudo apt install -f
 # Kvantum Arc Dark Theme
-wget https://github.com/varlesh/Arc-Dark-KDE/archive/master.zip -O Arc-Dark-KDE.zip
-unzip Arc-Dark-KDE.zip
-mkdir -p ~/.config/Kvantum
-cp -R /tmp/Arc-Dark-KDE-master/Kvantum/Ar* ~/.config/Kvantum/
+git clone https://github.com/varlesh/Arc-Dark-KDE.git
+cp -R Arc-Dark-KDE/Kvantum ~/.config/
 # Fix skins path for Yakuake 3 (KF5)
 mkdir -p ~/.local/share/yakuake/kns_skins
 ln -s /usr/share/kde4/apps/yakuake/skins/arc-dark ~/.local/share/yakuake/kns_skins/arc-dark
-ln -s /usr/share/kde4/apps/yakuake/skins/papirus ~/.local/share/yakuake/kns_skins/papirus
 ```
 
 
