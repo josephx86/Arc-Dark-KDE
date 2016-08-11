@@ -45,7 +45,7 @@ sudo apt install -f
 wget https://github.com/varlesh/Arc-Dark-KDE/archive/master.zip -O Arc-Dark-KDE.zip
 unzip Arc-Dark-KDE.zip
 mkdir -p ~/.config/Kvantum
-cp -R /tmp/Arc-Dark-KDE-master/Kvantum/Arc* ~/.config/Kvantum/
+cp -R /tmp/Arc-Dark-KDE-master/Kvantum/Ar* ~/.config/Kvantum/
 # Fix skins path for Yakuake 3 (KF5)
 mkdir -p ~/.local/share/yakuake/kns_skins
 ln -s /usr/share/kde4/apps/yakuake/skins/arc-dark ~/.local/share/yakuake/kns_skins/arc-dark
@@ -56,7 +56,8 @@ ln -s /usr/share/kde4/apps/yakuake/skins/papirus ~/.local/share/yakuake/kns_skin
 **For other KDE5 distros**:
 ```
 git clone https://github.com/varlesh/Arc-Dark-KDE.git
-cp -R Arc-Dark-KDE/{aurorae,color-schemes,plasma,konsole,yakuake,Kvantum,wallpapers} ~/.local/share/
+cp -R Arc-Dark-KDE/{aurorae,color-schemes,plasma,konsole,yakuake,wallpapers} ~/.local/share/
+cp -R Arc-Dark-KDE/Kvantum ~/.config/
 ```
 
 # Fix color menubar on GTK
