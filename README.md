@@ -9,7 +9,7 @@ On repository available:
 - Kvantum themes
 - Wallpaper
 
-Arc (Ligh version) [here](https://github.com/varlesh/Arc-KDE)
+Arc (light version) [here](https://github.com/varlesh/Arc-KDE)
 
 # Preview
 ![Screenshot](preview.png)
