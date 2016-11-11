@@ -27,7 +27,6 @@ opaque=
 group_toolbar_buttons=false
 vertical_spin_indicators=true
 fill_rubberband=false
-progressbar_thickness=14
 spread_progressbar=true
 merge_menubar_with_toolbar=true
 small_icon_size=16
