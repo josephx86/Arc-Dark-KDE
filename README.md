@@ -1,82 +1,28 @@
-# Arc Dark KDE
-
-On repository available:
-- Plasma theme
-- Aurorae theme
-- Color scheme
-- Yakuake skin
-- Konsole colorscheme
-- Kvantum themes
-- Wallpaper
+# Arc Dark KDE 5
 
 Arc (light version) [here](https://github.com/varlesh/Arc-KDE)
 
 # Preview
 ![Screenshot](preview.png)
 
-# Recommends
-- Qt4 and Qt5 Theme Engine [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum)
-
-- GTK2 and GTK3 Theme [Arc Dark GTK](https://github.com/horst3180/arc-theme)
-
-- Icon Theme [Papirus Arc Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde)
-
-- Terminal [Yakuake](https://www.kde.org/applications/system/yakuake)
-
-# Install
-**For Archlinux, Manjaro, Netrunner Rolling, Antergos (AUR)**:
-
-**STABLE RELEASE**
+# Install / Update
 ```
-yaourt -S arc-dark-suite
+wget -O - https://raw.githubusercontent.com/varlesh/Arc-Dark-KDE/master/install-arc-dark-kde.sh | bash
 ```
-
-**LASTEST DEVELOPMENT GIT SNAPSHOT**
-```
-yaourt -S arc-dark-suite-git
-```
-
-**For Kubuntu 16.04/KDE Neon**:
-
-```
-sudo add-apt-repository ppa:varlesh-l/papirus-pack
-sudo apt update
-# Plasma 5 Pack
-sudo apt install arc-dark-kde5
-# GTK Theme
-sudo apt install arc-theme
-# Kvantum engine (ONLY FOR AMD64!!!)
-wget https://github.com/tsujan/Kvantum/releases/download/V0.10.0/kvantum_0.10.0-ubuntuLTS_amd64.deb
-sudo dpkg -i kvantum*.deb
-sudo apt install -f
-# Kvantum Arc Dark Theme
-git clone https://github.com/varlesh/Arc-Dark-KDE.git
-cp -R Arc-Dark-KDE/Kvantum ~/.config/
-# Fix skins path for Yakuake 3 (KF5)
-mkdir -p ~/.local/share/yakuake/kns_skins
-ln -s /usr/share/kde4/apps/yakuake/skins/arc-dark ~/.local/share/yakuake/kns_skins/arc-dark
-```
-
-
-**For other KDE5 distros**:
-```
-git clone https://github.com/varlesh/Arc-Dark-KDE.git
-cp -R Arc-Dark-KDE/{aurorae,color-schemes,plasma,konsole,yakuake,wallpapers} ~/.local/share/
-cp -R Arc-Dark-KDE/Kvantum ~/.config/
-```
+**Depends:**
+- wget
+- unzip
+- plasma-desktop
+- [kvantum engine](https://github.com/tsujan/Kvantum/tree/master/Kvantum)
+- yakuake
 
 # Fix color menubar on GTK
 ![Screenshot](fix-menubar.png)
 
 Add bash alias **fix-menubar** (for easy fix color menubar after upgrade Arc Dark GTK Theme).
 
-If you install plasma theme on home directory, please add this alias:
 ```
 echo 'alias fix-menubar="sudo bash ~/.local/share/plasma/desktoptheme/Arc-Dark/fix-menubar.sh"' >> ~/.bashrc
-```
-Or if you install plasma theme to system directory:
-```
-echo 'alias fix-menubar="sudo bash /usr/share/plasma/desktoptheme/Arc-Dark/fix-menubar.sh"' >> ~/.bashrc
 ```
 
 # Extra install
