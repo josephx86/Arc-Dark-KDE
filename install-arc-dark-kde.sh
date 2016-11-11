@@ -20,5 +20,4 @@ cp -R /tmp/Arc-Dark-KDE-master/Kvantum ~/.config/
 echo "Delete cache ..."
 rm -rf ~/.cache/{plasm*,ico*}
 rm -rf /tmp/Arc-Dark*
-rm install-arc-dark-kde.sh
 echo "Done!"
