@@ -16,6 +16,11 @@ wget -O - https://raw.githubusercontent.com/varlesh/Arc-Dark-KDE/master/install-
 - [kvantum engine](https://github.com/tsujan/Kvantum/tree/master/Kvantum)
 - yakuake
 
+# Remove
+```
+wget -O - https://raw.githubusercontent.com/varlesh/Arc-Dark-KDE/master/remove-arc-dark-kde.sh | bash
+```
+
 # Fix color menubar on GTK
 ![Screenshot](fix-menubar.png)
 
