@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 echo "Arc Dark cusomization for KDE 5"
 sleep 5
 echo "Delete old version ..."

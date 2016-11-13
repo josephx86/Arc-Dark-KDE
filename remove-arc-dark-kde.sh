@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 echo "Remove Arc Dark KDE"
 rm -rf ~/.local/share/aurorae/themes/{Arc-Dark,Arc-Dark-Transparent}
 rm ~/.local/share/color-schemes/ArcDark.colors
