@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-echo "Arc Dark cusomization for KDE 5"
+echo "Arc Dark customization for KDE 5"
 sleep 5
 echo "Delete old version ..."
 rm -rf ~/.local/share/aurorae/themes/{Arc-Dark,Arc-Dark-Transparent}
